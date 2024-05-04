@@ -88,7 +88,7 @@ submit.Text = ""
 submit.TextColor3 = Color3.fromRGB(0, 0, 0)
 submit.TextSize = 14.000
 submit.MouseButton1Down:connect(function()
-	if pass.Text == "Rc712" then
+	if pass.Text == "297x885xzBypass" then
 		passpage.Visible = false
 		mainpage.Visible = true
 	else
